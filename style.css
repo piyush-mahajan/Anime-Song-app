@@ -52,7 +52,7 @@ nav ul li {
   width: 70%;
   border-radius: 12px;
   padding: 34px;
-  background-image: url("wp6749081.jpg");
+  background-image: url("bg.gif");
   background-size: cover;
 }
 
@@ -95,7 +95,7 @@ nav ul li {
   margin: 12px 0;
   justify-content: space-between;
   align-items: center;
-  border-radius: 34px;
+  border-radius: 30px;
 }
 
 .songItem img {
